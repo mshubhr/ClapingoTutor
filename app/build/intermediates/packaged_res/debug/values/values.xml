@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="bottom_nav_color">#272D33</color>
+    <color name="card_color">#EDF2F7</color>
+    <color name="card_color_default">#F9FCFF</color>
+    <color name="card_item_color">#ABBAB7</color>
+    <color name="card_shadow_color">#B0D6FF</color>
+    <color name="card_stroke">#CBD2D8</color>
+    <color name="creamy_background_color">#F5EEE6</color>
+    <color name="dark_violet">#4B6FDD</color>
+    <color name="drag_handle">#707070</color>
+    <color name="gray">#707070</color>
+    <color name="hint_color">#B3BCC3</color>
+    <color name="input_border_color">#2A2D2E</color>
+    <color name="input_box_color">#222527</color>
+    <color name="light_gray">#DADADA</color>
+    <color name="light_violet">#7E99EA</color>
+    <color name="low_level_text_color">#565656</color>
+    <color name="negative">#FF3C3C</color>
+    <color name="neutral">#0094FF</color>
+    <color name="positive">#41D17B</color>
+    <color name="primary_button_color">#272D33</color>
+    <color name="qr_code_primary">#1B1E20</color>
+    <color name="qr_code_secondary">#ffffff</color>
+    <color name="text_color">#272D33</color>
+    <color name="themed_black_white">#272D33</color>
+    <color name="themed_white_black">#ffffff</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_and_blue">#ffffff</color>
+    <color name="yellowish_orange_color">#FF881D</color>
+    <string name="about_me">About me</string>
+    <string name="app_name">clapingo</string>
+    <string name="date">Date</string>
+    <string name="image_of_the_teacher">Image of the teacher</string>
+    <string name="ratings">Ratings</string>
+    <string name="schedule_this_tutor">Schedule this Tutor</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="time">Time</string>
+    <style name="Base.Theme.Clapingo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Clapingo" parent="Base.Theme.Clapingo"/>
+</resources>

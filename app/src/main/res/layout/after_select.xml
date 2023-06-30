@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/ts_1"
+        android:layout_width="115dp"
+        android:layout_height="40dp"
+        android:text="16:00-16:15"
+        android:textSize="15sp"
+        android:background="@drawable/booked_timeslot_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/ts_2"
+        android:layout_width="115dp"
+        android:layout_height="40dp"
+        android:text="16:00-16:15"
+        android:textSize="15sp"
+        android:background="@drawable/booked_timeslot_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+
+    <TextView
+        android:id="@+id/ts_3"
+        android:layout_width="115dp"
+        android:layout_height="40dp"
+        android:text="16:00-16:15"
+        android:textSize="15sp"
+        android:background="@drawable/booked_timeslot_border"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "com.example.clapingo.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.clapingo.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-anydpi_ic_cross_icon.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-anydpi\\ic_cross_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_time_icon.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\time_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_rating_layout.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\rating_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-xhdpi_ic_cross_icon.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-xhdpi\\ic_cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-xxhdpi_ic_cross_icon.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-xxhdpi\\ic_cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_like.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\like.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_rv_layout.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\rv_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_booked_timeslot_border.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\booked_timeslot_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-hdpi_ic_cross_icon.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-hdpi\\ic_cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_after_select.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\after_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_like.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_rating.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\rating.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_second_layer.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\second_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable-mdpi_ic_cross_icon.png.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable-mdpi\\ic_cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_after_layout.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\after_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_background_overlay.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\background_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_rishabhjain.jpg.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\rishabhjain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_date_icon.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\date_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_timeslot_border.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\timeslot_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-merged_res-29:\\drawable_star_icon.xml.flat",
+        "source": "C:\\Users\\Shubhr\\.gradle\\daemon\\8.0\\com.example.clapingo.app-main-31:\\drawable\\star_icon.xml"
+    }
+]
